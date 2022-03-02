@@ -44,4 +44,5 @@ ABOUT CREDENTIALS.
 There is a list of credentials in the docuemnt BlogEngineManualUser.pdf, which can be used in the application that is hosted in Azure.
 Besides that, it is posible to create new accounts. Email is used as a username and if it starts with letter 'e', the role Editor will be assigned to the account. Otherwise, Writer role will be assigned.
 
-  
+Finally, about estimated time, considering installing software, review some topics, developing, testing, deployment and fixing issues: 28hrs. 
+Although topics like Autofac or unit testing were reviewed, it was not possible implemented for a matter of time.

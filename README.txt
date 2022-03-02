@@ -1,3 +1,11 @@
+ABOUT THE SOURCE CODE
+
+Solution was compressed into 2 zip files.
+SourceCode1.zip and SourceCode2.zip
+Unzip both files and put their content in one folder.
+
+
+
 FOR RUNNING FROM THE WEB
 
 Web application URL: 	https://blogengine20220301065033.azurewebsites.net/
